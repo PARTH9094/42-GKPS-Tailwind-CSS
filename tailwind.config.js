@@ -16,7 +16,8 @@ module.exports = {
         bg_color4: '#FCF8F2',
         bg_color5: '#F1DDC1',
         text_p: '#313131',
-        btn_col: '#7AA9A7'
+        btn_col: '#7AA9A7',
+        border:'#C0C0C0'
       }, fontFamily: {
         'Roboto': ['Roboto', 'sans-serif'],
         'Gujarati' :['Noto Sans Gujarati', 'sans-serif'],
