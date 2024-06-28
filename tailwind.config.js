@@ -7,8 +7,9 @@ module.exports = {
         'bg_img': "url('./images/bg.png')",
 
       }, colors: {
-        parth: '#E6E4E4',
-        text_color: '#254D4D',
+        primary: '#F19F30',
+        'primary-1':'#DF8204',
+        secondary: '#364C4C',
         text_color2: '#14141499',
         bg_color: '#254D4D1A',
         bg_color2: '#254D4D',
@@ -19,9 +20,7 @@ module.exports = {
         btn_col: '#7AA9A7',
         border:'#C0C0C0'
       }, fontFamily: {
-        'Roboto': ['Roboto', 'sans-serif'],
-        'Gujarati' :['Noto Sans Gujarati', 'sans-serif'],
-        'Montserrat':['Montserrat', 'sans-serif']
+        'Inter': ["Inter", 'sans-serif']
       }
     },
   },
